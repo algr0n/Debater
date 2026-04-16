@@ -1,0 +1,3 @@
+python-dotenv
+requests
+# Add other necessary packages for Grok API integration here
